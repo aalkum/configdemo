@@ -1,7 +1,7 @@
 my:
- greeting: Config from inside application yml
+  greeting: Config from inside application yml
 application:
   name: server
 server: 
-  port:8090
+  port: 8090
              
