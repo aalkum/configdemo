@@ -1,1 +1,6 @@
+my:
+    greeting: Config from inside application yml
 
+application:
+             name: server
+             
